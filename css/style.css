@@ -1,0 +1,19 @@
+body{
+    background-color: blueviolet;
+    border: 20px solid powderblue;
+    margin: 50px;
+    padding: 20px;
+}
+
+h1{ 
+    color: indianred;
+    width:fit-content ;
+    border: 10px
+    solid  yellow;
+}
+a{
+    color: aliceblue;
+    text-align: center;
+    font-size: 30px;
+    color: red;
+}
