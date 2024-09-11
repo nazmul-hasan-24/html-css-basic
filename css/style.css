@@ -11,9 +11,15 @@ h1{
     border: 10px
     solid  yellow;
 }
-a{
+a:link{
     color: aliceblue;
     text-align: center;
     font-size: 30px;
+    color: green;
+    
+}
+a:hover{
     color: red;
+    background-color: transparent;
+    text-decoration: underline;
 }
